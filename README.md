@@ -3,3 +3,5 @@
 CURSO EM VÍDEO, AULA PRATICA
 
 REPOSITÓRIO CRIADO DURANTE VÍDEO AULA
+
+Essa linha adicionei diretamente no github
